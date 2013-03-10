@@ -1,0 +1,3 @@
+[submodule "files/ksm-plugin"]
+	path = files/ksm-plugin
+	url = https://github.com/HeMan/ksm-plugin.git
